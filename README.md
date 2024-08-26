@@ -1,8 +1,3 @@
-ADMIN PAGE:
-username: admin
-email: admin@mail.com
-password: admin
-
 # Django Nginx Log Aggregator
 
 ## Overview
